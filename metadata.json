@@ -1,0 +1,6 @@
+{
+  "name": "Extrator de Imagens",
+  "description": "Extraia e analise imagens de sites e arquivos facilmente com ferramentas úteis e inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
